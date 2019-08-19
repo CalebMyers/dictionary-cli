@@ -1,0 +1,13 @@
+{
+    "name": "dictionary-cli",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "dictionary": "bin/dictionary"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "minimist": "^1.2.0"
+    }
+}
